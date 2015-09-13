@@ -1,0 +1,931 @@
+﻿北 京	PEK
+北京	BJS
+北京	BJS,PEK
+巴彦淖尔	RLK
+佛山	FUO
+哈尔滨	HARBIN
+唐山	TVS
+北 京	NAY
+上 海	SHA
+上 海	PVG
+重 庆	CKG
+万 州	WXN
+天 津	TSN
+昆 明	KMG
+大 理	DLU
+保 山	BSD
+北京	BEIJING
+西双版纳	JHG
+丽 江	LJG
+思 茅	SYM
+昭 通	ZAT
+德宏芒市	LUM
+中 甸	DIG
+临 沧	LNJ
+呼和浩特	HET
+包 头	BAV
+赤 峰	CIF
+海拉尔	HLD
+通 辽	TGO
+乌兰浩特	HLH
+锡林浩特	XIL
+满州里	NZH
+鄂尔多斯	DSN
+乌 海	WUA
+成 都	CTU
+达 县	DAX
+南 充	NAO
+西 昌	XIC
+宜 宾	YBP
+泸 州	LZO
+绵 阳	MIG
+攀枝花	PZI
+九寨沟	JZH
+拉 萨	LXA
+昌 都	BPX
+林 芝	LZY
+太 原	TYN
+长 治	CIH
+运 城	YCU
+大 同	DAT
+沈 阳	SHE
+大 连	DLC
+丹 东	DDG
+锦 州	JNZ
+朝 阳	CHG
+银 川	INC
+中 卫	ZHY
+西 安	XIY
+汉 中	HZG
+延 安	ENY
+榆 林	UYN
+安 康	AKA
+乌鲁木齐	URC
+阿克苏	AKU
+阿勒泰	AAT
+富 蕴	FYN
+和 田	HTN
+库 车	KCA
+克拉玛依	KRY
+喀 什	KHG
+且 末	IQM
+塔 城	TCG
+伊 宁	YIN
+库尔勒	KRL
+哈 密	HMI
+哈尔滨	HRB
+黑 河	HEK
+佳木斯	JMU
+牡丹江	MDG
+齐齐哈尔	NDG
+鸡 西	JXA
+大 庆	DQA
+武 汉	WUH
+恩 施	ENH
+沙 市	SHS
+襄 樊	XFN
+宜 昌	YIH
+贵 阳	KWE
+遵 义	ZYI
+安 顺	AVA
+铜 云	TEN
+杭 州	HGH
+黄 岩	HYN
+宁 波	NGB
+温 州	WNZ
+义 乌	YIW
+舟 山	HSN
+衢 州	JUZ
+南 京	NKG
+常 州	CZX
+连云港	LYG
+南 通	NTG
+徐 州	XUZ
+盐 城	YNZ
+无 锡	WUX
+石家庄	SJW
+秦皇岛	SHP
+邯 郸	HDG
+山海关	SHF
+郑 州	CGO
+洛 阳	LYA
+南 阳	NNY
+福 州	FOC
+晋 江	JJN
+武夷山	WUS
+厦 门	XMN
+长 沙	CSX
+常 德	CGD
+张家界	DYG
+怀 化	HJJ
+衡 阳	HNY
+合 肥	HFE
+安 庆	AQG
+黄 山	TXN
+阜 阳	FUG
+南 昌	KHN
+赣 州	KOW
+景德镇	JDZ
+九 江	JIU
+井岗山	JGS
+长 春	CGQ
+吉 林	JIL
+延 吉	YNJ
+海 口	HAK
+三 亚	SYX
+南 宁	NNG
+北 海	BHY
+桂 林	KWL
+柳 州	LZH
+梧 州	WUZ
+广 州	CAN
+梅 县	MXZ
+汕 头	SWA
+深 圳	SZX
+湛 江	ZHA
+珠 海	ZUH
+兴 宁	XIN
+济 南	TNA
+青 岛	TAO
+潍 坊	WEF
+烟 台	YNT
+威 海	WEH
+临 沂	LYI
+东 营	DOY
+西 宁	XNN
+格尔木	GOQ
+兰 州	LHW
+敦 煌	DNH
+嘉峪关	JGN
+庆 阳	IQN
+酒 泉	CHW
+阿布扎比	AUH
+艾哈迈达巴德	AMD
+阿拉木图	ALA
+亚罗士打	AOR
+安曼	AMM
+阿什巴哈德	ASB
+阿斯塔纳	TSE
+阿特劳	GUW
+巴科洛德	BCD
+巴林	BAH
+巴库	BAK
+巴厘	DPS
+巴厘巴板	BPN
+斯里巴加湾	BWN
+班加罗尔	BLR
+曼谷	BKK
+贝鲁特	BEY
+民都鲁	BTU
+比什凯克	FRU
+比什凯克	FRU
+武端	BXU
+卡加延-德奥罗	CGY
+加尔格达	CCU
+宿务	CEB
+济州岛	CJU
+金奈	MAA
+青州	CJJ
+清迈	CNX
+清莱	CEI
+吉大港	CGP
+科钦	COK
+科伦坡	CMB
+科塔巴托	CBO
+大马士革	DAM
+达曼	DMM
+达沃	DVO
+新德里	DEL
+达卡	DAC
+第波罗	DPL
+多哈	DOH
+迪拜	DXB
+杜马盖地	DGT
+阿尔江	ECN
+福冈	FUK
+福岛	FKS
+桑托斯将军城	GES
+果阿	GOI
+河内	HAN
+合艾	HDY
+广岛	HIJ
+胡志明市	SGN
+香港	HKG
+海得拉巴	HYD
+伊洛伊洛	ILO
+怡保	IPH
+伊斯兰堡	ISB
+雅加达	CGK
+吉达	JED
+新山	JHB
+鹿儿岛	KOJ
+卡里波	KLO
+高雄	KHH
+卡拉齐	KHI
+卡拉干达	KGF
+加德满都	KTM
+孔敬	KKC
+苏梅岛	USM
+小松	KMQ
+哥打巴鲁	KBR
+哥打基纳巴鲁	BKI
+卡利刻特	CCJ
+甲米	KBV
+吉隆坡	KUL
+瓜拉丁加奴	TGG
+关丹	KUA
+古晋（沙捞越）	KCH
+科威特	KWI
+光州	KWJ
+纳闽	LBU
+拿笃	LDU
+拉合尔	LHE
+兰卡威	LGK
+佬沃	LAO
+拉纳卡	LCA
+黎牙实比	LGP
+琅勃拉邦	LPQ
+勒克瑙	LKO
+澳门	MFM
+马累	MLE
+万鸦老	MDC
+马尼拉	MNL
+马什哈德	MHD
+马塔兰	AMI
+松山	MYJ
+棉兰	MES
+米里	MYY
+孟买	BOM
+马斯喀特	MCT
+那牙	WNP
+长崎	NGS
+名古屋	NGO
+新泻	KIJ
+冈山	OKJ
+冲绳	OKA
+大阪	OSA
+巴东	PDG
+巨港	PLM
+帕福斯	PFO
+槟城	PEN
+白沙瓦	PEW
+金边	PNH
+普吉	HKT
+公主港	PPS
+釜山	PUS
+利雅得	RUH
+罗哈斯	RXS
+萨那	SAH
+山打根	SDK
+扎幌	SPK
+汉城	SEL
+三宝垄	SRG
+仙台	SDJ
+锡布	SBW
+暹粒（吴哥窟）	REP
+新加坡	SIN
+索洛	SOC
+泗水	SUB
+素叻	URT
+塔克洛班	TAC
+大丘	TAE
+塔比拉兰	TAG
+台北	TPE
+塔什干	TAS
+斗湖	TWU
+德黑兰	THR
+特拉维夫	TLV
+特里凡得琅	TRV
+蒂鲁吉拉伯利	TRZ
+东京	TYO
+东京	NRT
+董里	TST
+土格加劳	TUG
+乌隆	UTH
+乌戎潘当	UPG
+万象	VTE
+仰光	RGN
+日惹	JOG
+三宝颜	ZAM
+奥尔堡	AAL
+阿伯丁	ABZ
+阿达那	ADA
+西安	SIA
+阿雅克肖	AJA
+安齐奥（撒丁岛）	AHO
+阿利坎特	ALC
+艾尔特瑞恩	ACH
+阿姆斯特丹	AMS
+安科纳	AOI
+昂热	QXG
+安卡拉	ANK
+阿讷西	NCY
+安塔利亚	AYT
+安特卫普	ANR
+阿斯图利亚斯	OVD
+雅典	ATH
+阿维尼翁	AVN
+巴塞罗那	BCN
+巴里	BRI
+巴塞尔	BSL
+巴斯蒂亚	BIA
+贝尔法斯特	BFS
+贝尔法斯特	BHD
+贝尔格莱德	BEG
+卑尔根	BGO
+柏林	BER
+伯尔尼	BRN
+比亚丽兹	BIQ
+毕尔巴鄂	BIO
+比伦	BLL
+伯明翰	BHX
+博德鲁姆	BJV
+博罗尼亚	BLQ
+波尔多	BOD
+不来梅	BRE
+布雷斯特	BES
+布林迪西	BDS
+布里斯托	BRS
+布鲁塞尔	BRU
+布鲁塞尔	ZYR
+布加勒斯特	BUH
+布达佩斯	BUD
+卡昂	CFR
+卡利亚里	CAG
+卡尔维	CLY
+加的夫	CWL
+卡塔尼亚	CTA
+基辛那乌	KIV
+科隆	CGN
+哥本哈根	CPH
+科克	ORK
+克罗托內	CRV
+达拉曼	DLM
+代尼兹利	DNZ
+迪亚巴克尔	DIY
+德累斯顿	DRS
+都柏林	DUB
+杜勃罗夫尼克	DBV
+杜塞尔多夫	DUS
+爱丁堡	EDI
+埃德米特	EDO
+埃因霍温	EIN
+俄祖汝穆	ERZ
+法鲁	FAO
+佛罗伦萨	FLR
+法兰克福	FRA
+弗里的希哈芬	FDH
+福特弯图拉岛	FUE
+丰沙尔	FNC
+加济安泰普	GZT
+格但斯克	GDN
+日内瓦	GVA
+热那亚	GOA
+格拉斯哥	GLA
+歌德堡	GOT
+格拉茨	GRZ
+格勒诺布尔	GNB
+汉堡	HAM
+汉诺威	HAJ
+赫尔辛基	HEL
+亨伯赛	HUY
+伊比萨岛	IBZ
+因斯布卢克	INN
+伊斯坦布尔	IST
+伊兹密尔	IZM
+伊兹米尔	ADB
+约恩苏	EUS
+卡托维兹	KTW
+开赛利	ASR
+喀山	KZN
+哈巴罗夫斯克	KHV
+基辅	IEV
+克拉根福	KLU
+科尼亚	KYA
+科西策	KSC
+克拉科夫	KRK
+	KJA
+库奥皮奥	KUO
+拉科鲁尼亚	LCG
+拉默齐亚	SUF
+拉尼翁	LAI
+兰萨罗特	ACE
+拉斯帕尔马斯	LPA
+勒阿弗尔	LEH
+勒芒	ZLN
+利兹	LBA
+莱比锡-哈勒	LEJ
+雷翁	LEN
+里尔	LIL
+里尔	XDB
+林茨	LNZ
+里斯本	LIS
+卢布尔雅那	LJU
+伦敦	LON
+伦敦	LHR
+伦敦	LCY
+罗里昂	LRT
+卢森堡	LUX
+里昂	XYD
+里昂	LYS
+马斯垂克	MST
+马德里	MAD
+马拉加	AGP
+马拉提亚	MLX
+马耳他	MLA
+曼彻斯特	MAN
+马赛	MRS
+梅诺卡岛	MAH
+南锡-梅兹	ETZ
+米兰	MIL
+米兰	LIN
+米兰	MXP
+明斯克	MSQ
+蒙彼利埃	MPL
+莫斯科	MOW
+慕尼黑	MUC
+奥格斯堡	AGB
+明斯特	FMO
+南特	NTE
+那不勒斯	NAP
+纽卡斯尔	NCL
+尼斯	NCE
+下诺夫格罗德	GOJ
+诺里奇	NWI
+纽伦堡	NUE
+敖德萨	ODS
+奥斯陆	OSL
+奥卢	OUL
+巴勒莫	PMO
+帕尔马	PMI
+巴黎	CDG
+巴黎	ORY
+巴黎	LBG
+巴黎	PAR
+帕尔马	PMF
+波城	PUF
+彼尔姆	PEE
+佩皮尼昂	PGF
+佩鲁贾	PEG
+佩斯卡拉	PSR
+皮克岛	PIX
+比萨	PSA
+波德戈里察	TGD
+波亚提尔	XOP
+波尔图	OPO
+波兹南	POZ
+布拉格	PRG
+普里什蒂纳	PRN
+雷焦卡拉布里亚	REG
+雷恩	RNS
+雷克雅未克	REK
+里加	RIX
+里米尼	RMI
+罗德兹	RDZ
+罗马	ROM
+鹿特丹	RTM
+罗瓦涅米	RVN
+萨尔斯堡	SZG
+萨马拉	KUF
+萨姆松	SZF
+散纳菲尤尔	TRF
+萨利乌尔法	SFQ
+圣地亚哥	SCQ
+萨拉热窝	SJJ
+塞维利亚	SVQ
+香农	SNN
+辛菲罗波尔	SIP
+斯科普里	SKP
+索非亚	SOF
+南安普顿	SOU
+斯普利特	SPU
+圣彼得堡	LED
+斯塔凡格	SVG
+斯德哥尔摩	STO
+斯特拉斯堡	SXB
+斯图加特	STR
+塔林	TLL
+坦佩雷	TMP
+第比利斯	TBS
+泰斯	MME
+特内里费	TCI
+塞萨洛尼基	SKG
+蒂米什瓦拉	TSR
+地拉那	TIA
+图卢兹	TLS
+图尔	TUF
+特拉布宗	TZX
+的里雅斯特	TRS
+特隆赫姆	TRD
+都灵	TRN
+图尔库	TKU
+瓦萨	VAA
+巴伦西亚	VLC
+巴利亚多利德	VLL
+凡城	VAN
+瓦尔纳	VAR
+威尼斯	VCE
+维罗纳	VRN
+维也纳	VIE
+维哥	VGO
+维尔纽斯	VNO
+符拉迪沃斯托克(海参崴)	VVO
+华沙	WAW
+弗罗茨瓦夫	WRO
+埃里温	EVN
+萨格勒布	ZAG
+苏黎世	ZRH
+阿鲁巴	AUA
+波哥达	BOG
+博内尔	BON
+布宜诺斯艾利斯	BUE
+加拉加斯	CCS
+卡宴	CAY
+库腊索岛	CUR
+法兰西堡	FDF
+瓜亚基尔	GYE
+哈瓦那	HAV
+利马	LIM
+墨西哥城	MEX
+蒙得维的亚	MVD
+帕拉马里博	PBM
+皮特瓜角	PTP
+太子港	PAP
+蓬特卡那	PUJ
+基多	UIO
+里约热内卢	RIO
+圣马丁	SXM
+圣地亚哥	SCL
+布宜诺斯艾利斯	EZE
+圣多明戈	SDQ
+圣保罗	SAO
+阿比让	ABJ
+阿布贾	ABV
+阿克拉	ACC
+亚的斯亚贝巴	ADD
+亚历山大（埃及）	ALY
+阿尔及尔	ALG
+塔那那利佛	TNR
+阿斯马拉	ASM
+巴马科	BKO
+班吉	BGF
+布拉柴维尔	BZV
+开罗	CAI
+开普敦	CPT
+卡萨布兰卡	CAS
+科纳克里	CKY
+科托努	COO
+达喀尔	DKR
+达累斯萨拉姆	DAR
+吉布提	JIB
+杜阿拉	DLA
+恩德培/坎帕拉	EBB
+约翰内斯堡	JNB
+卡诺	KAN
+喀土穆	KRT
+乞力马扎罗	JRO
+金沙萨	FIH
+拉各斯	LOS
+利伯维尔	LBV
+洛美	LFW
+罗安达	LAD
+卢克索	LXR
+马埃岛	SEZ
+马拉博	SSG
+马拉喀什	RAK
+毛里求斯	MRU
+内罗毕	NBO
+恩贾梅纳	NDJ
+尼亚美	NIM
+努瓦克肖特	NKC
+瓦加杜古	OUA
+黑角	PNR
+伊丽莎白港	PLZ
+哈科特港	PHC
+拉巴特	RBA
+圣但尼	RUN
+的黎波里	TIP
+突尼斯	TUN
+维多利亚大瀑布	VFA
+温得和克	WDH
+雅温得	YAO
+阿德莱德	ADL
+奥克兰	AKL
+布里斯班	BNE
+凯恩斯	CNS
+堪培拉	CBR
+基督城	CHC
+达尔文	DRW
+但尼丁	DUD
+黄金海岸	OOL
+关岛	GUM
+霍巴特	HBA
+郎塞斯顿	LST
+墨尔本	MEL
+楠迪	NAN
+佩斯	PER
+皇后镇	ZQN
+塞班	SPN
+悉尼	SYD
+惠灵顿	WLG
+阿伯丁	ABR
+阿克伦城	CAK
+奥尔巴尼	ALB
+阿尔伯克基	ABQ
+亚历山大	ESF
+亚林镇	ABE
+阿马里洛	AMA
+安克雷奇	ANC
+阿普尔顿	ATW
+阿卡达	ACV
+白杨镇	ASE
+亚特兰大	ATL
+大西洋城	AIY
+奥古斯塔	AUG
+奥斯丁	AUS
+贝克斯菲尔德	BFL
+巴尔的摩	BWI
+班戈	BGR
+巴吞鲁日	BTR
+贝灵汉	BLI
+伯米吉	BJI
+毕林斯	BIL
+宾厄姆顿	BGM
+伯明翰	BHM
+布鲁明顿	BMI
+博伊西	BOI
+波斯顿	BOS
+波兹曼	BZN
+布锐内德	BRD
+布里斯托尔	TRI
+布法罗	BUF
+布班克	BUR
+伯灵顿	BTV
+布特	BTM
+卡尔加里	YYC
+坎贝尔河	YBL
+锡达拉皮兹	CID
+内布拉斯加	CDR
+香槟市	CMI
+查尔斯顿	CRW
+查理斯敦	CHS
+夏洛特	CLT
+弗吉尼亚	CHO
+夏络特镇	YYG
+查塔努加	CHA
+芝加哥	CHI
+芝加哥	MDW
+芝加哥	ORD
+芝加哥	CIC
+辛辛那提	CVG
+克里福兰	CLE
+科泉	COS
+哥伦比亚	CAE
+哥伦布	CMH
+哥伦布	GTR
+哥伦布（佐治亚洲)	CSG
+康英克斯	YQQ
+新月	CEC
+达拉斯	DFW
+代顿	DAY
+鹿湖	YDF
+丹佛	DEN
+得梅因	DSM
+底特律	DTW
+Dodge City	DDC
+多森	DHN
+迪比克	DBQ
+德卢斯	DLH
+奥克莱尔	EAU
+艾德蒙顿	YEG
+伊利	ERI
+埃斯卡纳巴	ESC
+犹吉尼	EUG
+爱文斯维尔	EVV
+费尔班克斯	FAI
+法戈	FAR
+菲也特维尔	FYV
+弗林特	FNT
+道奇堡	FOD
+劳德代尔堡	FLL
+迈尔斯堡	RSW
+史密斯堡	FSM
+韦恩堡	FWA
+弗雷德里克顿	YFC
+弗列斯诺	FAT
+鹅湾	YYR
+科罗拉多大峡谷	GCN
+格蓝福克	GFK
+大章克申	GJT
+大急流城	GRR
+大激流城	GPZ
+大瀑布市	GTF
+绿湾	GRB
+北卡罗来纳	GSO
+格林维尔	GLH
+海湾港	GPT
+刚尼森	GUC
+哈利法克斯	YHZ
+汉考克	CMX
+哈里斯堡	MDT
+哈特福德	BDL
+哈特福德 布拉德利	BDL
+海伦娜	HLN
+西宾	HIB
+夏威夷	HNL
+休斯顿	HOU
+亨廷顿	HTS
+汉斯维尔	HSV
+海恩尼斯	HYA
+爱达华瀑布市	IDA
+Imperial	IPL
+印第安纳波利斯	IND
+国际瀑布市	INL
+因纽肯	IYK
+艾斯利珀(纽约长岛）	ISP
+杰克逊（密西西比州）	JAN
+杰克逊(田纳西州）	MKL
+杰克逊(密歇根州)	JAC
+杰克逊维尔	JAX
+乔普林	JLN
+卡胡卢伊	OGG
+卡拉马祖	AZO
+卡利斯比	FCA
+甘露市	YKA
+堪萨斯城	MCI
+堪萨斯	MKC
+基隆拿	YLW
+金斯顿	YGK
+克拉玛斯瀑布市	LMT
+诺克斯维尔	TYS
+科纳岛	KOA
+拉可诺斯	LSE
+拉法叶	LAF
+兰辛	LAN
+拉斯维加斯	LAS
+劳雷尔	PIB
+黎巴嫩	LEB
+莱维斯顿	LWS
+列克星敦	LEX
+林肯	LNK
+小石城	LIT
+洛杉矶	LAX
+路易斯维尔	SDF
+林奇堡	LYH
+麦迪逊	MSN
+曼彻斯特	MHT
+马尼斯蒂	MBL
+玛奎德	MQT
+麦孙城	MCW
+梅德福	MFR
+孟菲斯	MEM
+迈越颠	MEI
+迈阿密	MIA
+密尔沃基	MKE
+明尼阿布利斯	MSP
+迈诺特	MOT
+米罗米奇	YCH
+密苏拉	MSO
+莫比尔	MOB
+莫德斯托	MOD
+模林	MLI
+蒙克顿	YQM
+门罗	MLU
+蒙特利	MRY
+蒙哥马利	MGM
+蒙特利尔	YUL
+密苏里	MTJ
+摩西莱克	MWH
+马斯尔肖尔斯	MSL
+马斯克根	MKG
+纳奈莫	YCD
+楠塔基特岛	ACK
+纳什维尔	BNA
+新奥尔良	MSY
+纽约	NYC
+纽约	JFK
+纽约	LGA
+纽沃克	EWR
+纽波夫	SWF
+诺福克	ORF
+北本德	OTH
+奥克兰	OAK
+俄克拉荷马城	OKC
+奥马哈	OMA
+安大略	ONT
+橘子郡	SNA
+奥兰多	ORL
+奥兰多	MCO
+渥太华	YOW
+欧温斯波洛	OWB
+欧克斯纳	OXR
+帕杜卡	PAH
+棕榈泉	PSP
+巴拿马城	PFN
+帕斯科	PSC
+佩尔斯顿	PLN
+彭德尔顿	PDT
+彭萨克拉	PNS
+潘提顿	YYF
+皮若亚	PIA
+费城	PHL
+菲尼克斯	PHX
+皮埃尔	PIR
+匹兹堡	PIT
+波卡特洛	PIH
+安吉拉斯港	CLM
+波特兰（缅因州）	PWM
+波特兰（俄勒冈州）	PDX
+普雷斯克岛	PQI
+乔治王子城	YXS
+鲁伯特王子市	YPR
+普罗维丹斯	PVD
+蒲门	PUW
+魁北克	YQB
+昆西	UIN
+罗利	RDU
+拉皮德城	RAP
+雷丁(宾夕法尼亚州)	RDD
+雷德蒙	RDM
+里贾纳	YQR
+里诺	RNO
+莱恩兰德	RHI
+里士满	RIC
+罗阿诺克	ROA
+罗契斯特（明尼苏达州）	RST
+罗契斯特（纽约州）	ROC
+洛克福德	RFD
+萨克拉门托	SMF
+塞基诺	MBS
+塞伦	SLE
+盐湖城	SLC
+圣安托万	SAT
+圣迪戈	SAN
+圣地亚哥 卡尔斯巴德	CLD
+旧金山	SFO
+圣何塞	SJC
+圣路易斯-奥比斯波	SBP
+圣约翰	YSJ
+圣芭芭拉	SBA
+圣马利亚	SMX
+松妮亚	YZR
+萨斯卡通	YXE
+苏圣玛丽	YAM
+沙凡那港市	SAV
+西雅图	SEA
+沙马塔瓦	ZTM
+科罗拉多	SHR
+什里夫波特	SHV
+苏福尔斯	FSD
+苏城	SUX
+南本德	SBN
+斯巴达堡	GSP
+士波肯	GEG
+斯普林菲尔德	SGF
+斯普林菲尔德 IL	SPI
+圣约翰斯	YYT
+圣克劳德	STC
+圣路易斯	STL
+大学城	SCE
+斯廷博特斯普林斯	HDN
+萨德伯里	YSB
+太阳谷	SUN
+苏必利尔	SUW
+西尼	YQY
+锡拉库扎	SYR
+坦帕	TPA
+德瑞司	YXT
+小偷河瀑布市	TVF
+雷湾	YQT
+托莱多	TOL
+多倫多	YTO
+多伦多	YYZ
+特拉佛斯城	TVC
+图森	TUS
+塔尔萨	TUL
+吐丕洛	TUP
+双子瀑布	TWF
+威尔	EGE
+瓦多尔	YVO
+万帕拉索	VPS
+温哥华	YVR
+维多利亚	YYJ
+维沙利亚	VIS
+瓦拉瓦	ALW
+华盛顿	WAS
+华盛顿	IAD
+华盛顿	DCA
+沃特卢	ALO
+沃特敦	ATY
+沃沙	CWA
+韦纳奇	EAT
+西棕榈滩	PBI
+威斯特郡	HPN
+白平原	HPN
+威奇塔	ICT
+威尔克斯—巴里	AVP
+温莎	YQG
+温尼贝格	YWG
+雅吉瓦	YKM
+扬斯敦	YNG
+优马	YUM
