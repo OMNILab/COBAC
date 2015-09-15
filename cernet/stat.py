@@ -21,13 +21,15 @@ APP_NAME = "cernet"
 #输出格式为月，日，时，学校，域名，种类，关键词
 def cleanse(record, ipdict, parser, air):
     tmp = record.split('|')
+    if len(tmp) < 12:
+        return None
     host = tmp[2]
     month = tmp[0][5:7]
     day = tmp[0][8:10]
     hour = tmp[0][11:13]
     url = host + tmp[3]
     try:
-        school = ipdict[tmp[7][:-2]] 
+        school = ipdict[tmp[7][:-2]]
     except KeyError:
         return None
     for hostdict in parser:
@@ -43,9 +45,9 @@ def cleanse(record, ipdict, parser, air):
     if not k:
         keyword = 'unknown'
         t = 'unknown'
-    
-    return '%s|%s|%s|%s|%s|%s|%s'%(month, day, hour, school, host, t, keyword)    
-    
+
+    return '%s|%s|%s|%s|%s|%s|%s'%(month, day, hour, school, host, t, keyword)
+
 def stat(x, condition, features, f):
     c = condition.split('=')
     if len(c)!= 1:
@@ -66,6 +68,8 @@ def stat(x, condition, features, f):
     output(result, filename, len(features))
 
 def output(result, filename, n):
+    if len(result) == 0:
+        return
     with open(filename, 'ab+') as final:
         spamwriter = csv.writer(final, dialect='excel')
         if n-1:
@@ -81,7 +85,7 @@ def output(result, filename, n):
                         row.append(line[1][item])
                     except KeyError:
                         row.append(0)
-                spamwriter.writerow(row)       
+                spamwriter.writerow(row)
         else:
             for line in result:
                 spamwriter.writerow(list(line))
