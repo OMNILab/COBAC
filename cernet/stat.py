@@ -39,7 +39,7 @@ def cleanse(record, ipdict, parser, air):
             t = hostdict['type']
             try:
                 keyword = hostdict['dest'](url)
-            except IndexError:
+            except:
                 keyword = 'unknown'
             break
     if not k:
