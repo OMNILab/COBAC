@@ -187,14 +187,15 @@ def main(sc, path):
 
 #二维度
     stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), '', ['month', 'hour'], f)
-    stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), '', ['host', 'hour'], f)
-    stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), '', ['host', 'school'], f)
-    stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), '', ['host', 'day'], f) 
+    stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), '', ['day', 'hour'], f)
+    stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), u'type=旅游', ['keyword', 'month'], f)
+    stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), u'type=旅游', ['keyword', 'school'], f)
     stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), u'type=购物', ['keyword', 'hour'], f)
     stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), u'type=购物', ['keyword', 'month'], f)
     stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), u'type=购物', ['host', 'hour'], f)
     stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), u'type=购物', ['host', 'month'], f)
     stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), u'type=购物', ['host', 'day'], f)
+    stat(cernet.map(lambda x : cleanse(x, ipdict, parser, air)).filter(lambda x : x!=None), u'type=购物', ['host', 'school'], f) 
     
 #分类的keyword统计
     for dim in f:
