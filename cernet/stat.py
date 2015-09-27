@@ -160,6 +160,7 @@ def main(sc, path):
         stat(cernet2, 'total', [dim], f)
     stat(cernet2, 'total', ['month', 'hour'], f)
     stat(cernet2, 'total', ['hour', 'day'], f)
+    stat(cernet2, 'total', ['month', 'day'], f)
     stat(cernet_trip, 'trip',  ['month', 'keyword'], f)
     stat(cernet_shop, 'shop',  ['month', 'keyword'], f)
     stat(cernet_shop, 'shop', ['hour', 'keyword'], f)
@@ -177,7 +178,5 @@ def main(sc, path):
 if __name__ == "__main__":
     path = sys.argv[1]
     conf = SparkConf().setAppName(APP_NAME)
-    conf = conf.set("spark.akka.frameSize", "1000")
-    conf = conf.set("spark.shuffle.consolidateFiles", "True")
     sc = SparkContext(conf=conf)
     main(sc, path)
